@@ -1,0 +1,54 @@
+First screen 
+
+new game
+
+---------
+wddorld building
+4 images
+Nami is 29 years old lady, she has graduated from japanese IT school and has been working in a company. She lives with her mother. Her mother practices sustainable development.
+she will guide nami if she is making mistakes
+
+black screen
+itoday is sunday. no office.
+clock shows : 8:30AM.
+alarm rings.
+Nami is lying in bed. She opens her eye
+
+she looks around.
+Room has lot of garbage. Items decide.
+she looks unafffected by the state of the room.
+
+goes to washroom. Ready for office.
+Sees mom in the kichen.
+Greets Mom.
+did you get ready.
+
+mom asks : your room looks messy, did you clean.
+No.
+Tutorial section for introducing game mechanics
+Mom shows when you click on a garbage item, it goes to inventory.
+And then you can put it in garbage boxes
+Nami : okay mom, ill clean it right away.
+
+Nami goes to room. Clicks on items, they get populated in the inventory.
+
+Mom tells to put it in garbage boxes.
+Nami goes to garbage boxes.
+there are three garbage boxes.
+Mom tells tells about garbage box purposes
+1,2,3
+tells to drag the item to drop it
+
+nami does this correctly,
+if doing miskage, mom corrects her. items back to inventory.
+
+
+mom also tells her to help clean the garden.
+garden garbage items:
+sharp objects wrap in cloth
+
+
+
+
+
+
